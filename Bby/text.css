@@ -1,0 +1,39 @@
+.Title{
+    font-family:Roboto;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 30px;
+    margin-bottom: 5px;
+    text-decoration: underline;
+}
+.mini{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: left;
+    opacity: 0.8;
+    font-style: italic;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.love{
+    background-color:#F2F38F;
+    color:#B8367B;
+    font-size: 24px;
+    font-family:Roboto;
+    border: none;
+    height: 70px;
+    width: 200px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 60px;
+    margin-left: 0px;
+    margin-top: 1px;
+}
+.love:hover{
+    background-color: #feffc9;
+}
+.love:active{
+    opacity: 0.6;
+}
