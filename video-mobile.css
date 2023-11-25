@@ -1,0 +1,14 @@
+#video{
+    height: 500px;
+}
+#back{
+    font-family: Roboto;
+    font-size: 300%;
+    color: #CFE1F4;
+    width: 50%;
+    background-color: #4d7cbf;
+    border-radius: 10px;
+    border: 0px;
+    margin-left: 10%;
+
+}
