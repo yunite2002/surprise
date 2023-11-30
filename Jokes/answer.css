@@ -10,8 +10,8 @@ body{
     background-color: #FFFACB;
 }
 
-#two{
-    text-decoration: underline;
+#diff{
+    font-style: italic;
 }
 
 #back{
